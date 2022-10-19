@@ -1,6 +1,6 @@
 {
   "name": "@miaooo/nestjs-take-type",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "NestJS helper function that combined PartialType and PickType",
   "main": "lib/src/index.js",
   "module": "es/src/index.js",
