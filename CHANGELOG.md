@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.2.0](https://www.github.com/Val-istar-Guo/nestjs-take-type/compare/v1.1.0...v1.2.0) (2023-12-07)
+
+
+### Features
+
+* support nest10 ([90d482c](https://www.github.com/Val-istar-Guo/nestjs-take-type/commit/90d482c1fce4abee21d54157b2dedd3afc2a4b28))
+
 ## [1.2.0](https://github.com/Val-istar-Guo/nestjs-take-type/compare/v1.1.0...v1.2.0) (2023-12-07)
 
 
